@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This is a script to install nginx
+
 sudo apt-get update -y
 
 sudo apt install nginx -y
