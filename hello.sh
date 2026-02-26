@@ -2,6 +2,6 @@
 
 # Demo shell file
 
-sudo apt-det update
+sudo apt-get update
 
-echo "System  is upodated successfully."
+echo "System is updated successfully."
